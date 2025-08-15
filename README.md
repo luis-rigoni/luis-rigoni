@@ -5,11 +5,11 @@
 - 👋 luis.boa.rig@gmail.com  
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="width: fit-content">
 
     ![luis-rigoni's Stats](https://github-readme-stats.vercel.app/api?username=luis-rigoni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
     ![luis-rigoni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luis-rigoni&theme=dark&hide_border=true) 
-   <center> ![luis-rigoni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-rigoni&theme=dark&show_icons=true&hide_border=true&layout=compact) </center>
+    ![luis-rigoni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-rigoni&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
     </td>
   </tr>
