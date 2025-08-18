@@ -15,7 +15,6 @@
       • ✏️ Designer gráfico</br>
       • 🖥️ Editor de vídeos</br>
       • 💾 Técnico de informática</br>
-    </br>
       </br>
         </br>
           </br>
