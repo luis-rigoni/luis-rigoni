@@ -5,6 +5,9 @@
       • 🧭 Desenvolvedor full-stack</br>
       ‎‎ ‎  ‎  • HTML 5</br>
        ‎  ‎ ‎  • CSS 3</br>
+       ‎  ‎  ‎ • Bootstrap</br>
+       ‎  ‎  ‎ • C3chart library</br>
+       ‎  ‎  ‎ • mdb library</br>
        ‎  ‎ ‎  • PHP</br>
        ‎  ‎ ‎  • JavaScript</br>
        ‎  ‎ ‎  • Python</br>
@@ -23,9 +26,7 @@
               </br>
             </br>
           </br>
-        </br>
-      </br>
-    </br>
+    Contato profissional:</br>
     • 📨 luis.boa.rig@gmail.com
     </td>
     
