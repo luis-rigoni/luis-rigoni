@@ -26,7 +26,7 @@
               </br>
             </br>
           </br>
-    Contato profissional:</br>
+    *Contato profissional:*</br>
     • 📨 luis.boa.rig@gmail.com
     </td>
     
