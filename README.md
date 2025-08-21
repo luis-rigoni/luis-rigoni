@@ -12,7 +12,7 @@
        ‎  ‎ ‎  • JavaScript</br>
        ‎  ‎ ‎  • Python</br>
        ‎  ‎ ‎  • Java</br>
-       ‎ ‎ ‎   • PSQL</br>
+       ‎ ‎ ‎   • Docker</br>
        ‎ ‎ ‎   • PostgresSQL</br>
        ‎  ‎  ‎ • SQlite</br>
       • ✏️ Designer gráfico</br>
