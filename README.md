@@ -3,15 +3,17 @@
     <td valign="top" width="50%" style="text-align: center;">
       • 📚 Estudante de Ciências Da Computação</br>
       • 🧭 Desenvolvedor full-stack</br>
-      ‎‎ ‎  ‎  • HTML 5</br>
+      ‎‎ ‎  ‎   • HTML 5</br>
        ‎  ‎ ‎  • CSS 3</br>
        ‎  ‎  ‎ • Bootstrap</br>
-       ‎  ‎  ‎ • C3chart library</br>
-       ‎  ‎  ‎ • mdb library</br>
+       ‎  ‎  ‎ • C3chart</br>
        ‎  ‎ ‎  • PHP</br>
        ‎  ‎ ‎  • JavaScript</br>
        ‎  ‎ ‎  • Python</br>
        ‎  ‎ ‎  • Java</br>
+       ‎  ‎ ‎  • React</br>
+       ‎  ‎ ‎  • .NET</br>
+       ‎  ‎ ‎  • dart</br>
        ‎ ‎ ‎   • Docker</br>
        ‎ ‎ ‎   • PostgresSQL</br>
        ‎  ‎  ‎ • SQlite</br>
