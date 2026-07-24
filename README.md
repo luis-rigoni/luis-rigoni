@@ -1,46 +1,48 @@
 <table border="0" style="table-layout: fixed; width: 100%;">
   <tr>
+    <td colspan="2" style="padding: 0;">
+      <div style="overflow: hidden;">
+        <a href="https://www.linkedin.com/in/luis-eduardo-boaretto-rigoni-a544342a5/" target="_blank" title="Acessar LinkedIn" style="display: block; width: 100%; height: 100%;">
+          <img src="https://cdn.discordapp.com/attachments/1512229154282799124/1530357302941712384/aaa.png?ex=6a6547cd&is=6a63f64d&hm=19b0ddb8aaede729dab823501a253f925b0dcae6c4fe00756f604de632b4d529&" style="width: 100%; height: 100%; object-fit: cover;" >
+        </a>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
     <td valign="top" width="50%" style="text-align: center;">
-      • 📚 Estudante de Ciências Da Computação</br>
-      • 🧭 Desenvolvedor full-stack</br>
-      ‎‎ ‎  ‎   • HTML 5</br>
-       ‎  ‎ ‎  • CSS 3</br>
-       ‎  ‎  ‎ • Bootstrap</br>
-       ‎  ‎  ‎ • C3chart</br>
-       ‎  ‎ ‎  • PHP</br>
-       ‎  ‎ ‎  • JavaScript</br>
-       ‎  ‎ ‎  • Python</br>
-       ‎  ‎ ‎  • Java</br>
-       ‎  ‎ ‎  • React</br>
-       ‎  ‎ ‎  • .NET</br>
-       ‎  ‎ ‎  • dart</br>
-       ‎ ‎ ‎   • Docker</br>
-       ‎ ‎ ‎   • PostgresSQL</br>
-       ‎  ‎  ‎ • SQlite</br>
-      • ✏️ Designer gráfico</br>
-      • 🖥️ Editor de vídeos</br>
-      • 💾 Técnico de informática</br>
-      </br>
-        </br>
-          </br>
-              </br>
-                </br>
-              </br>
-            </br>
-          </br>
-    Contato profissional:</br>
-    • 📨 luis.boa.rig@gmail.com
+     <strong>📚 Currently studying</strong><br>
+         • Computer Science<br><br>
+
+  <strong>💼 Full Stack Software Engineer</strong><br>
+     • React<br>
+     • Laravel<br>
+     • PostgreSQL<br>
+     • Java<br>
+     • .NET<br>
+
+   <strong>🔍 Interested in</strong><br>
+     • Component Architecture<br>
+     • UI Engineering<br>
+     • Enterprise Applications<br>
+     • Performance Optimization<br>
+     • Software Design
+
+  <strong>💻 Currently working on</strong><br>
+     • Modernization of enterprise applications<br>
+     • Interactive dashboards<br>
+     • Reusable component architecture<br>
+     • Complex reporting systems<br><br>
+
+  <strong>📫 Professional contact:</strong><br>
+     • luis.boa.rig@gmail.com<br>
     </td>
-    
+
   <td valign="top" width="50%" style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=luis-rigoni&theme=dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%; max-width: 400px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=luis-rigoni&theme=dark&hide_border=true" style="width: 100%; max-width: 400px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-rigoni&theme=dark&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 400px;">
     </td>
-    
   </tr>
 </table>
-
 
 <picture style="width: 100%; display: block;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luis-rigoni/luis-rigoni/output/github-contribution-grid-snake-dark.svg">
