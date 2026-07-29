@@ -11,7 +11,7 @@
 
   <tr>
     <td valign="top" width="50%" style="text-align: center;">
-     <strong>📚 Currently studying</strong><br>
+     <strong>📚 Studying</strong><br>
          • Computer Science<br><br>
 
   <strong>💼 Full Stack Software Engineer</strong><br>
@@ -21,14 +21,14 @@
      • Java<br>
      • .NET<br>
 
-   <strong>🔍 Interested in</strong><br>
+   <strong>🔍 Interests</strong><br>
      • Component Architecture<br>
      • UI Engineering<br>
      • Enterprise Applications<br>
      • Performance Optimization<br>
      • Software Design
 
-  <strong>💻 Currently working on</strong><br>
+  <strong>💻 Working on</strong><br>
      • Modernization of enterprise applications<br>
      • Interactive dashboards<br>
      • Reusable component architecture<br>
