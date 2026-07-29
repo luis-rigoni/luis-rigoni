@@ -34,7 +34,7 @@
      • Reusable component architecture<br>
      • Complex reporting systems<br><br>
 
-  <strong>📫 Professional contact:</strong><br>
+  <strong>📫 My contact</strong><br>
      • luis.boa.rig@gmail.com<br>
     </td>
 
